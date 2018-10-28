@@ -43,8 +43,8 @@ supported test options can be seen with
 display tests timing information:
   `src/dpchain-core --test -d yes '[categoryName]'`
 
-xml test output (includes nested section information):
-  `src/dpchain-core --test -r xml '[categoryName]'`
+dp test output (includes nested section information):
+  `src/dpchain-core --test -r dp '[categoryName]'`
 
 # Running tests against postgreSQL
 
